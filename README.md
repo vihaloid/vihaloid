@@ -34,8 +34,9 @@
 
 </center> 
 
-<center> 
 <p style="margin: 0; font-size:100%"><br>Praesent placerat sit amet libero sed vehicula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer justo sem, pellentesque sit amet feugiat vitae, semper laoreet quam. Maecenas id sem pellentesque, lobortis nulla nec, feugiat augue. Pellentesque sed neque vitae ipsum euismod rhoncus. <br><br></p>
+
+<center> 
 
 # Languages
 
