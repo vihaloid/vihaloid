@@ -24,11 +24,15 @@
 
 <br>
 
+<center> 
+
 <div style="display: flex; align-items: center; gap: 20px; justify-content: center;">
     <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Rust/Ikuyo_Kita_holding_Rust_Book.png?raw=true" style="opacity: 1; width: 250px; height: 250px;"/> 
     <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/refs/heads/master/Java/Ryo_Yamada_Holding_Java_Book.jpg" style="opacity: 1; width: 250px; height: 250px;"/> 
     <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/PHP/Hitori_Gotoh_Holding_PHP_Book.jpg?raw=true" style="opacity: 1; width: 250px; height: 250px;"/> 
 </div>
+
+</center> 
 
 <center> 
 <p style="margin: 0; font-size:100%"><br>Donec dapibus mauris sed mi eleifend convallis. Donec dui enim, maximus et purus et, dictum fermentum dolor. In luctus ornare ultrices. Mauris vel eros feugiat augue efficitur aliquam eu vel sem. Donec luctus ante nec orci iaculis laoreet nec interdum odio. Curabitur commodo consequat varius. Etiam eu leo ex. Nunc ut ornare dui. Mauris vitae pulvinar mauris, laoreet dapibus ligula. Donec eget tortor sit amet urna consequat tempus. Fusce in ante pretium, cursus risus a, sollicitudin ipsum. Pellentesque rutrum vestibulum odio, et egestas diam tempor eget. Nam vestibulum pharetra turpis, a fermentum erat accumsan non. Phasellus consectetur porttitor est, eu blandit est venenatis non. Integer fermentum dui sit amet massa rutrum, sit amet volutpat tellus pulvinar. <br><br></p>
