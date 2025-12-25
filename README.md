@@ -24,7 +24,7 @@
 
 <br>
 
-<center> 
+<div align="center"> 
 
 <div style="display: flex; align-items: center; gap: 20px; justify-content: center;">
     <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/Rust/Ikuyo_Kita_holding_Rust_Book.png?raw=true" style="opacity: 1; width: 250px; height: 250px;"/> 
@@ -32,11 +32,11 @@
     <img src="https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books/blob/master/PHP/Hitori_Gotoh_Holding_PHP_Book.jpg?raw=true" style="opacity: 1; width: 250px; height: 250px;"/> 
 </div>
 
-</center> 
+
 
 <p style="margin: 0; font-size:100%"><br>Praesent placerat sit amet libero sed vehicula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer justo sem, pellentesque sit amet feugiat vitae, semper laoreet quam. Maecenas id sem pellentesque, lobortis nulla nec, feugiat augue. Pellentesque sed neque vitae ipsum euismod rhoncus. <br><br></p>
 
-<center> 
+
 
 # Languages
 
@@ -50,4 +50,4 @@
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square)
 ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=flat-square) 
 
-</center>
+</div>
