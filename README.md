@@ -6,17 +6,39 @@
     <br>
 </h1>
 
-<div style="display: flex; align-items: center; gap: 20px;">
-    <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/refs/heads/master/Python/Yuni_Shingyouji_Holding_Python_Book.jpg" style="opacity: 1; width: 300px; height: 300px;"/> 
-    <p style="margin: 0; font-size:100%">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel nibh et magna elementum bibendum. Etiam nec lorem vel nulla rutrum fringilla. <br></p>
-</div>
+<table width="100%">
+  <tr>
+        <td width="200px" height="200px" align="center">
+            <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/refs/heads/master/Python/Yuni_Shingyouji_Holding_Python_Book.jpg" width="200px">
+        </td>
+        <td> 
+            <h1 align="center"><img src="https://github.com/NapoII/My_gif_Icon_collection/blob/main/My_gif_Icon_collection/code_python.gif?raw=true" width="50" style="vertical-align:middle"/> Python Programming language</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vel nibh et magna elementum bibendum. Etiam nec lorem vel nulla rutrum fringilla.
+            </p><pre><code>print("Hello World")</code></pre>
+        </td> 
+  </tr>
+</table>
+
+<table width="100%">
+    <tr>
+        <td>
+            <h1 align="center"><img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/7c0ac2ceb9f9d24992ec393d11fa7337d2f92466/programming%20languages/c.svg" width="50" height="50" style="vertical-align:middle"/>  C Programming Language</h1>
+            <p>Donec malesuada commodo augue, id rutrum dolor laoreet et. Aenean aliquet erat ac metus tincidunt, vitae semper orci bibendum.</p> 
+<pre><code>#include &lt;stdio.h&gt; 
+‎
+int main() {
+    printf("Hello Wolrd");
+    return 0;
+}</code></pre>
+        </td>
+        <td width="250px" height="250px" align="center">
+            <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/refs/heads/master/C/Megumin_Holding_C_Programming_Language.jpg" width="250px"/>
+        </td>
+    </tr>
+</table>
+
 
 #
-
-<div style="display: flex; align-items: center; gap: 20px;">
-    <p style="margin: 0; font-size:100%">Donec malesuada commodo augue, id rutrum dolor laoreet et. Aenean aliquet erat ac metus tincidunt, vitae semper orci bibendum. Vestibulum sed nibh sed tellus porta sollicitudin quis sodales ipsum. Vestibulum ac odio leo. </p>
-    <img src="https://raw.githubusercontent.com/cat-milk/Anime-Girls-Holding-Programming-Books/refs/heads/master/C/Megumin_Holding_C_Programming_Language.jpg" style="opacity: 1; width: 200px; height: 200px;"> 
-</div>
 
 <br>
 
